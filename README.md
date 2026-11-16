@@ -2,6 +2,10 @@
 Interactive Bike Buyers Dashboard built using Microsoft Excel. Includes KPI cards, data cleaning, PivotTables, PivotCharts, Excel formulas, and dropdown filters to analyze customer demographics, purchasing behaviour, income, age, gender, and commute distance.
 
 # Bike Buyers Analysis & Interactive Excel Dashboard
+## Dataset
+The project uses a bike buyers dataset containing customer information such as income, gender, marital status, education, occupation, number of children, commute distance, region, age, and bike purchase status
+# Dataset Used
+<a href = "https://github.com/pranjalggarwal11/Excel_Bike_Dashboard/blob/main/Bike_Sales%20unclean%20data.xlsx"> DataSet view </a>
 
 ## Project Overview
 This project focuses on analyzing customer demographics and purchasing behaviour to understand the factors influencing bike purchases. An interactive dashboard was developed using **Microsoft Excel** to transform raw customer data into meaningful business insights.
@@ -27,9 +31,6 @@ This project focuses on analyzing customer demographics and purchasing behaviour
 - Identify demographic patterns among bike buyers.
 - Analyze the relationship between income, age, commute distance, and bike purchases.
 - Present business insights through an interactive Excel dashboard.
-
-## Dataset
-The project uses a bike buyers dataset containing customer information such as income, gender, marital status, education, occupation, number of children, commute distance, region, age, and bike purchase status.
 
 ## Learning Outcomes
 Through this project, I practised data cleaning, data analysis, Excel formulas, PivotTables, chart creation, and dashboard design.
